@@ -10,9 +10,13 @@ Untuk outputnya menggunakan metode getter.
 ## Berikut ini adalah output yang dihasilkan:
 
 ## PHP
+https://github.com/listianingrum16/LATIHAN2DPBO2022/issues/4#issue-1145032145
 
 ## C++
+https://github.com/listianingrum16/LATIHAN2DPBO2022/issues/3#issue-1145032012
 
 ## Java
+https://github.com/listianingrum16/LATIHAN2DPBO2022/issues/2#issue-1145031858
 
 ## Python
+https://github.com/listianingrum16/LATIHAN2DPBO2022/issues/1#issue-1145031543
